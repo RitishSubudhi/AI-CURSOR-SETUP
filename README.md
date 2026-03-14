@@ -91,13 +91,13 @@ ChatGPT focuses more on simplicity, while Claude often provides optimized logic 
 
 ## Project Structure
 
+```
 AI-CURSOR-SETUP
 │
 ├── index.html
 ├── style.css
 └── README.md
-
----
+```
 
 ## Author
 
